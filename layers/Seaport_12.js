@@ -1,0 +1,1 @@
+var json_Seaport_12 = {"type":"FeatureCollection","name":"Seaport_12","features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiPoint","coordinates":[[137.77430303414161,-34.959447663719139],[137.941705385271689,-35.718304120604259],[138.096298505118313,-35.60683250441361],[138.51227348614367,-34.827923750261512]]}}]}
